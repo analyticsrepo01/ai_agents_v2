@@ -1,0 +1,84 @@
+    INFO: 2024-10-21 05:16:36,647:               log.py:   20: Logging to /home/jupyter/GenAI7/ai_agents_v2/mdpdf.log
+   DEBUG: 2024-10-21 05:16:36,647:               cli.py:  103: story.md
+    INFO: 2024-10-21 05:16:36,705:         converter.py:   14: story.md
+   DEBUG: 2024-10-21 05:16:36,719:      pdf_renderer.py:  470: printSegment: The Curious Case of the Missing Rainbow
+   DEBUG: 2024-10-21 05:16:36,740:      pdf_renderer.py:  235: /home/jupyter/GenAI7/ai_agents_v2/images1/41d16a22-731b-4411-beaa-6fc2325046ac.jpg, 1536, 1536
+   DEBUG: 2024-10-21 05:16:36,747:      pdf_renderer.py:  470: printSegment: Chapter 1: The Vanishing Colors
+   DEBUG: 2024-10-21 05:16:36,765:      pdf_renderer.py:  470: printSegment: Pip, the squirrel, scurried around, gathering berries for the Forest Festival of Colors. It was his favorite day, where
+   DEBUG: 2024-10-21 05:16:36,769:      pdf_renderer.py:  470: printSegment: everyone celebrated with rainbow decorations. Suddenly, Flora the butterfly fluttered past, tears sparkling on her
+   DEBUG: 2024-10-21 05:16:36,770:      pdf_renderer.py:  470: printSegment: wings. “The rainbow’s gone
+   DEBUG: 2024-10-21 05:16:36,779:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-10-21 05:16:36,780:      pdf_renderer.py:  470: printSegment: ” she cried, “Without it, the forest will be dull
+   DEBUG: 2024-10-21 05:16:36,788:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-10-21 05:16:36,789:      pdf_renderer.py:  470: printSegment: ” Pip’s heart sank. He had to do something
+   DEBUG: 2024-10-21 05:16:36,790:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-10-21 05:16:36,799:      pdf_renderer.py:  470: printSegment:  He dashed
+   DEBUG: 2024-10-21 05:16:36,804:      pdf_renderer.py:  470: printSegment: off to find his friend Luna, the wisest owl he knew. Luna listened patiently before suggesting, “Jasper the badger might
+   DEBUG: 2024-10-21 05:16:36,805:      pdf_renderer.py:  470: printSegment: know something. He knows the forest better than anyone.
+   DEBUG: 2024-10-21 05:16:36,806:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,806:      pdf_renderer.py:  235: /home/jupyter/GenAI7/ai_agents_v2/images1/5029235d-3cab-4a87-a7c4-3caa9f093cf4.jpg, 1536, 1536
+   DEBUG: 2024-10-21 05:16:36,809:      pdf_renderer.py:  470: printSegment: Chapter 2: Grumbles in the Woods
+   DEBUG: 2024-10-21 05:16:36,810:      pdf_renderer.py:  470: printSegment: Pip found Jasper in his burrow, grumbling about the festival noise. 
+   DEBUG: 2024-10-21 05:16:36,811:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,811:      pdf_renderer.py:  470: printSegment: Missing rainbow, you say?
+   DEBUG: 2024-10-21 05:16:36,812:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,813:      pdf_renderer.py:  470: printSegment:  Jasper grumbled,
+   DEBUG: 2024-10-21 05:16:36,813:      pdf_renderer.py:  470: printSegment: scratching his chin. 
+   DEBUG: 2024-10-21 05:16:36,814:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,814:      pdf_renderer.py:  470: printSegment: That
+   DEBUG: 2024-10-21 05:16:36,815:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-10-21 05:16:36,816:      pdf_renderer.py:  470: printSegment: s not good. The rainbow holds a special magic for our forest.
+   DEBUG: 2024-10-21 05:16:36,816:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,817:      pdf_renderer.py:  470: printSegment:   Pip’s eyes widened. Maybe
+   DEBUG: 2024-10-21 05:16:36,818:      pdf_renderer.py:  470: printSegment: grumpy Jasper wasn
+   DEBUG: 2024-10-21 05:16:36,818:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-10-21 05:16:36,823:      pdf_renderer.py:  470: printSegment: t so bad after all.  Jasper, surprisingly enthusiastic now, led Pip through hidden trails, his
+   DEBUG: 2024-10-21 05:16:36,824:      pdf_renderer.py:  470: printSegment: knowledge of the forest like a map etched in his mind.
+   DEBUG: 2024-10-21 05:16:36,825:      pdf_renderer.py:  235: /home/jupyter/GenAI7/ai_agents_v2/images1/8ea8caf4-cf08-4c12-8e06-e74fe828d928.jpg, 1536, 1536
+   DEBUG: 2024-10-21 05:16:36,828:      pdf_renderer.py:  470: printSegment: Chapter 3: Whispers in the Wind
+   DEBUG: 2024-10-21 05:16:36,829:      pdf_renderer.py:  470: printSegment: Following a trail of shimmering scales, Pip and Jasper reached the tallest tree. Just then, Luna landed beside them. 
+   DEBUG: 2024-10-21 05:16:36,830:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,831:      pdf_renderer.py:  470: printSegment: The wind whispers of mischievous cloud sprites,
+   DEBUG: 2024-10-21 05:16:36,832:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,832:      pdf_renderer.py:  470: printSegment:  she hooted softly, 
+   DEBUG: 2024-10-21 05:16:36,833:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,833:      pdf_renderer.py:  470: printSegment: They love playing with colors.
+   DEBUG: 2024-10-21 05:16:36,834:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,843:      pdf_renderer.py:  470: printSegment:  A
+   DEBUG: 2024-10-21 05:16:36,849:      pdf_renderer.py:  470: printSegment: mischievous group of cloud sprites stealing the rainbow? It sounded unbelievable, yet, what other explanation could
+   DEBUG: 2024-10-21 05:16:36,851:      pdf_renderer.py:  470: printSegment: there be? The three friends set off, determined to confront the sprites.
+   DEBUG: 2024-10-21 05:16:36,851:      pdf_renderer.py:  235: /home/jupyter/GenAI7/ai_agents_v2/images1/3b62f37e-58db-4ef0-9a77-e5f8a9d510c3.jpg, 1536, 1536
+   DEBUG: 2024-10-21 05:16:36,853:      pdf_renderer.py:  470: printSegment: Chapter 4:  Atop the Cloudy Peak
+   DEBUG: 2024-10-21 05:16:36,867:      pdf_renderer.py:  470: printSegment: Guided by the wind, they climbed higher, the air thinning as they reached a peak hidden in a swirl of clouds.  There,
+   DEBUG: 2024-10-21 05:16:36,869:      pdf_renderer.py:  470: printSegment: they found a group of giggling cloud sprites, their laughter echoing like wind chimes. In their midst, shimmered the
+   DEBUG: 2024-10-21 05:16:36,870:      pdf_renderer.py:  470: printSegment: captured rainbow
+   DEBUG: 2024-10-21 05:16:36,871:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-10-21 05:16:36,871:      pdf_renderer.py:  470: printSegment:  
+   DEBUG: 2024-10-21 05:16:36,872:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,872:      pdf_renderer.py:  470: printSegment: We just wanted to keep its beauty
+   DEBUG: 2024-10-21 05:16:36,873:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-10-21 05:16:36,873:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,874:      pdf_renderer.py:  470: printSegment:  one sprite squeaked, a little ashamed.
+   DEBUG: 2024-10-21 05:16:36,874:      pdf_renderer.py:  235: /home/jupyter/GenAI7/ai_agents_v2/images1/3bf4951c-dd1d-425e-890f-8afe58361cff.jpg, 1536, 1536
+   DEBUG: 2024-10-21 05:16:36,877:      pdf_renderer.py:  470: printSegment: Chapter 5: A Rainbow Restored
+   DEBUG: 2024-10-21 05:16:36,878:      pdf_renderer.py:  470: printSegment: Pip stepped forward, 
+   DEBUG: 2024-10-21 05:16:36,879:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,879:      pdf_renderer.py:  470: printSegment: But the forest needs the rainbow
+   DEBUG: 2024-10-21 05:16:36,880:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-10-21 05:16:36,880:      pdf_renderer.py:  470: printSegment:  It
+   DEBUG: 2024-10-21 05:16:36,881:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-10-21 05:16:36,881:      pdf_renderer.py:  470: printSegment: s for everyone to enjoy, especially at the festival.
+   DEBUG: 2024-10-21 05:16:36,882:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-10-21 05:16:36,931:      pdf_renderer.py:  470: printSegment:  The
+   DEBUG: 2024-10-21 05:16:36,976:      pdf_renderer.py:  470: printSegment: cloud sprites exchanged nervous glances. Pip’s words had touched their hearts. Realizing their mistake, they released
+   DEBUG: 2024-10-21 05:16:36,998:      pdf_renderer.py:  470: printSegment: the rainbow back into the sky. It arched across the forest, painting everything in dazzling colors. The festival was a
+   DEBUG: 2024-10-21 05:16:37,006:      pdf_renderer.py:  470: printSegment: joyous celebration, and Pip, Luna, and even grumpy Jasper, were hailed as heroes.  From then on, everyone
+   DEBUG: 2024-10-21 05:16:37,007:      pdf_renderer.py:  470: printSegment: cherished the rainbow even more, reminded of the importance of sharing its beauty.
+   DEBUG: 2024-10-21 05:16:37,008:      pdf_renderer.py:   53: 0, [2, 'The Curious Case of the Missing Rainbow', 1, 70.0]
+   ERROR: 2024-10-21 05:16:37,008:      pdf_renderer.py:   57: Bad heading level.  More information:
+Traceback (most recent call last):
+  File "/opt/conda/envs/pytorch/lib/python3.10/site-packages/mdpdf/pdf_renderer.py", line 55, in __del__
+    self.doc.set_toc(self.toc)
+  File "/home/jupyter/.local/lib/python3.10/site-packages/fitz/utils.py", line 1328, in set_toc
+    raise ValueError("hierarchy level of item 0 must be 1")
+ValueError: hierarchy level of item 0 must be 1
